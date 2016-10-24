@@ -1,0 +1,23 @@
+{
+  "name": "my-twitter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "client-sessions": "*",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mysql": "*",
+    "mocha":"*",
+    "request":"*",
+    "connect-mongo":"*",
+    "express-session":"*",
+    "mongodb":"*",
+    "amqp":"*",
+    "crypto":"*"    
+    	
+  }
+}

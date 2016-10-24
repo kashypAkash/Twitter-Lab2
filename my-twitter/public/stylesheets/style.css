@@ -1,0 +1,48 @@
+/*body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}*/
+
+.signup{
+  margin-top: 50px;
+}
+
+.login-msg{
+	color:red;
+}
+.signup-msg{
+	color:red;
+}
+.pull-right{
+  margin-right: 300px;
+}
+
+.btn-xs {
+    margin-left: 400px;
+    margin-bottom: 10px;
+}
+
+.home-btn{
+  color: white;
+  background-color: #3b88c3;
+}
+
+.login{
+  color: #ffffff;
+  background-color: transparent;
+}
+
+a.login:hover{
+  color: #ffffff;
+}
+
+.nav .open>a:hover {
+  background-color: #3b88c3;
+}
+.nav .open>a:after{
+  background-color: #3b88c3;
+}
